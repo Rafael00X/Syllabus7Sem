@@ -1,0 +1,33 @@
+1.  Multimedia
+        Definition
+        Characteristics
+        Properties        
+        
+2.  Multimedia Systems
+        Definition
+        Components
+
+3.  Text
+        Plain Text
+        Hypertext
+        ASCII & Unicode
+        Formatted & Unformatted Text
+
+4.  Audio
+        Sampling & Quantization
+        MIDI
+        File Formats
+        Tone
+        Note
+        Size Calculation
+
+5.  Image
+        File Formats
+        Color Formats (RGB, CMYK, HIS)
+        Raster Scan & Vector Scan
+        Vector Image & Bitmap Image
+        Size Calculation
+
+6.  Animation
+        Types
+        Standards
