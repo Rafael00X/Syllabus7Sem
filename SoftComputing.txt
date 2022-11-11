@@ -47,6 +47,13 @@
                 Simulated Annealing
 
 
+Question
+------------------
+Illustrate:
+        FPS,
+        FRS,
+        Rank Selection.
+
 Reference
 ------------------
 https://drive.google.com/file/d/1xyz-3Go4Q_8EIunvJvhmXqtAYNCnMKMb/view
