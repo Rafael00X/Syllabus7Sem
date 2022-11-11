@@ -1,0 +1,54 @@
+1.  Supervised Learning
+        Regression
+                Linear
+                Multilinear
+        Decision Tree
+                Classification
+                Regression
+                Entrophy & Information Gain
+        K-Nearest Neighbour
+        Support Vector Machine
+        Naive Bayes Theorem
+
+2.  Unsupervised Learning
+        Association
+        Clustering
+                K-Means (numerical)
+                K-Medoids
+                Agglomerative
+                Divisive
+
+3.  Curse of Dimentionality
+        Feature Selection Process
+        Feature Extraction Process
+                Principal Component Analysis
+                Independent Component Analysis
+                Factor Analysis
+
+4.  Bias and Variance
+        Definition
+        Tradeoffs
+
+5.  Ensemble Learning
+        Definition
+        Bagging / Bootstrap Aggregation
+        Random Forest (OOB)
+        Boosting & Adaboost
+
+6.  Neural Network
+        Artificial Neural Network
+        Convolutional Neural Network
+        Deep Learning
+
+7.  Reinforcement Learning
+        Definition
+
+
+Questions
+-----------------------
+
+Illustrate with examples:
+        Semi-supervised Learning,
+        Active Learning,
+        Reinforcement Learning,
+        Inference in Graphical Models.
