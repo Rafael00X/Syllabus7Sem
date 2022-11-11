@@ -1,0 +1,53 @@
+1.  Difference between Soft Computing & Hard Computing
+
+2.  Fuzzy Logic
+        Definition
+        Fuzzy Set & Operations
+        Terminologies: Core, Support, Boundary, Height of Fuzzy Set
+        Defuzzification Methods
+                Lambda / Alphacut Methods
+                Height Methods
+                Maxima Methods
+                        First of Maxima
+                        Last of Maxima
+                        Mean of Maxima
+                Centroid Method
+                        Centroid of Area
+                        Centroid of Gravity
+                Weighted Average Method
+        Fuzzy Implication
+        Fuzzy Inference System
+                Mamdani Fuzzy Inference System
+                Takagi-Sugeno Fuzzy Model (TS Method)
+        Linguistic Variable & Hedge
+
+3.  Neural Network
+        Learning Rules
+                Hebbian
+                Perceptron
+                Delta
+                Boltzmann
+                Competitive
+        Adaline & Madaline Network
+        Back Propagation
+        Models
+                MP Neuron
+                Kohonen
+
+4.  Genetic Algorithm
+        Simple Genetic Algorithm
+        Operators of GA
+                Selection
+                Crossover
+                Mutation
+                Encoding (Binary Encoding)
+        Difference between Traditional Algorithm and GA
+        Ant Colony Optimization
+        Particle Swarm Optimization
+                Simulated Annealing
+
+
+Reference
+------------------
+https://drive.google.com/file/d/1xyz-3Go4Q_8EIunvJvhmXqtAYNCnMKMb/view
+https://youtu.be/8LdZMqcFEHs
